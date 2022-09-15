@@ -1,0 +1,18 @@
+.dark-bgm2 {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-logo {
+  height: 150px;
+}
+
+.dark-bgm1 {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
